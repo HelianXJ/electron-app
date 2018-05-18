@@ -1,0 +1,28 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "my electron application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelianXJ/electron-app.git"
+  },
+  "keywords": [
+    "electron",
+    "js",
+    "node"
+  ],
+  "author": "lxj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HelianXJ/electron-app/issues"
+  },
+  "homepage": "https://github.com/HelianXJ/electron-app#readme",
+  "devDependencies": {
+    "electron": "^2.0.1"
+  }
+}
